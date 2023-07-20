@@ -30,7 +30,19 @@ html, body
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+	.main-section {
+	  padding-left: 15px;
+	  padding-right: 15px;
+	}
+  
+	.container {
+	  max-width: 100%;
+	}
   }
+  
   
 body {
 	font-family: Roboto, sans-serif, arial;
