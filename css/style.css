@@ -254,6 +254,7 @@ div[role="progressbar"] {
 
 .bg-lightgrey {
 	background-color: #1a1a1a;
+	width: full;
 }
 .edu-exp {
 	padding: 10px 0px;
